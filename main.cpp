@@ -8,5 +8,7 @@ int main()
 
 	printf("Git Test2!\n");
 
+	printf("ƒvƒŒƒCƒ„[‚ÌˆÚ“®ˆ—’Ç‰Á\n");
+
 	return 0;
 }
