@@ -10,5 +10,7 @@ int main()
 
 	printf("プレイヤーの移動処理追加\n");
 
+	printf("プルリクエストのテスト\n");
+
 	return 0;
 }
