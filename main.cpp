@@ -12,5 +12,7 @@ int main()
 
 	printf("プルリクエストのテスト\n");
 
+	printf("masterで変更\n");
+
 	return 0;
 }
