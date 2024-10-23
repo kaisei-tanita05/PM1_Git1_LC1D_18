@@ -14,5 +14,6 @@ int main()
 
 	printf("masterで変更\n");
 
+	printf("ローカルで変更\n");
 	return 0;
 }
