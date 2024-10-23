@@ -8,10 +8,13 @@ int main()
 
 	printf("Git Test2!\n");
 
-	printf("�v���C���[�̈ړ������ǉ�\n");
+	printf("プレイヤーの移動処理追加\n");
 
-	printf("�v�����N�G�X�g�̃e�X�g\n");
+	printf("プルリクエストのテスト\n");
 
-	printf("�R���v���N�g�̃e�X�g\n");
+
+	printf("コンプリクトのテスト\n");
+  
+	printf("masterで変更\n");
 	return 0;
 }
