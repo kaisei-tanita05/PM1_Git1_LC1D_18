@@ -12,5 +12,6 @@ int main()
 
 	printf("プルリクエストのテスト\n");
 
+	printf("コンプリクトのテスト\n");
 	return 0;
 }
